@@ -1,7 +1,7 @@
 /************* Constants *************/
 
 /* Var : string APIKEY
-*  Replace by your own API Key
+*  7bd4c0a320349a5a
 */
 var APIKEY = "";
 
