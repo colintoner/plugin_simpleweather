@@ -3,7 +3,7 @@
 /* Var : string APIKEY
 *  Replace by your own API Key
 */
-var APIKEY = "";
+var APIKEY = "7bd4c0a320349a5a";
 
 var retina = window.devicePixelRatio >= 2;
 var retina3 = window.devicePixelRatio >= 3;
